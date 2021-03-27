@@ -1,3 +1,1 @@
-# DSChallengeAmplifier
-
-Die Lösung befindet sich in challengeAnswerYang.ipynb. 
+Der Kurs befindet sich in BayesscheMethode.ipynb. 
